@@ -5,4 +5,4 @@ In this Project I'm going to show you how to use modern HTML and CSS to create a
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.png)
+![screenshot](Screenshot.png)
